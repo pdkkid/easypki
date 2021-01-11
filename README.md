@@ -11,7 +11,7 @@ CLI.
 
 # API
 
-[![godoc](https://godoc.org/github.com/google/easypki?status.svg)](https://godoc.org/github.com/google/easypki)
+[![godoc](https://godoc.org/github.com/pdkkid/easypki?status.svg)](https://godoc.org/github.com/pdkkid/easypki)
 
 For the latest API:
 
@@ -38,7 +38,7 @@ compatible with openssl, so you are not restrained.
 
 ```
 # Get the CLI:
-go get github.com/google/easypki/cmd/easypki
+go get github.com/pdkkid/easypki/cmd/easypki
 
 
 # You can also pass the following through arguments if you do not want to use
